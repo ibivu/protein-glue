@@ -1,0 +1,6 @@
+*.pyc
+input/
+output/
+.DS_Store
+.ipynb_checkpoints/
+pretrain_data/
