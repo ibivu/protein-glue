@@ -10,6 +10,8 @@ Additionally, some of the code can be used standalone to:
 - Generate TFRecord files from other input formats for the pre-training and downstream tasks
 - Run training on a SLURM job system cluster
 
+Datasets can be downloaded from https://www.ibi.vu.nl/downloads/ProteinGLUE/.
+
 ## Requirements
 
 - Python 3.7 or newer
